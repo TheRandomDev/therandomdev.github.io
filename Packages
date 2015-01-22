@@ -1,0 +1,28 @@
+Package: com.matrixdevteam.autounlock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
+Filename: .///com.matrixdevteam.autounlock_1.0_iphoneos-arm.deb
+Size: 3144
+MD5sum: 7d68b02c083dbed2ff424ec7dda46eab
+SHA1: 932773d82627f6557f3279ee87dc4367aad26c71
+SHA256: d9d260a2698379ab5d5b387a243db3baadd1d02df978cf056f20929ea40f1ab6
+Section: Tweaks
+Description: Skip The Lockscreen and prompt you to your passcode screen
+Author: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
+Name: AutoUnlock
+
+Package: com.matrixdevteam.battbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
+Filename: .///com.matrixdevteam.battbar_1.0_iphoneos-arm.deb
+Size: 5634
+MD5sum: a9096753fdd5c2062be4fd3a8a4042d9
+SHA1: 7862898299cfb7d7e609e0514c5a398d8a560fff
+SHA256: 011234d33e25a56c19b33ebb555bb77d091b80478adc02df36946f1aac6e075d
+Section: Tweaks
+Description: Display how much battery is on StatusBar
+Author: MatrixDevTeam <matrixdevteamcydiasupp0rt71@gmail.com>
+Name: BattBar
+
